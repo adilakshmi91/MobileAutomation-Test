@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6394" started-at="2021-01-11T22:51:47Z" finished-at="2021-01-11T22:51:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6394" started-at="2021-01-11T22:51:47Z" finished-at="2021-01-11T22:51:54Z">
+      <class name="Mobile_Calculator.Calculator">
+        <test-method status="PASS" signature="TriggerinBeforeSuiteDependency()[pri:0, instance:Mobile_Calculator.Calculator@2aece37d]" name="TriggerinBeforeSuiteDependency" is-config="true" duration-ms="9899" started-at="2021-01-11T16:51:38Z" finished-at="2021-01-11T16:51:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TriggerinBeforeSuiteDependency -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:Mobile_Calculator.Calculator@2aece37d]" name="sum" duration-ms="6363" started-at="2021-01-11T16:51:48Z" finished-at="2021-01-11T16:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:Mobile_Calculator.Calculator@2aece37d]" name="closeApp" is-config="true" duration-ms="721" started-at="2021-01-11T16:51:54Z" finished-at="2021-01-11T16:51:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- Mobile_Calculator.Calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
